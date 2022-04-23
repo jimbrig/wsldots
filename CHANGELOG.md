@@ -7,10 +7,21 @@ All notable changes to this project will be documented in this file.
 ### Documentation
 
 - Initialize README
+- Initialize CHANGELOG.md
 
 ### Features
 
 - Add stowed zsh dotfiles
+- Add stowed z dotfiles
+- Add stowed wslu dotfiles
+- Add stowed wget dotfiles (vscode-server)
+- Add stowed tldr dotfiles
+- Add stowed ssh keys and gitignor
+- Add stowed s-search dotfiles
+- Add initial git configs
+- Add stowed bash configs
+- Add stowed docker configs
+- Add stowed, encrypted gh-cli settings
 
 ### Config
 
