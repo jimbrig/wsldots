@@ -37,6 +37,11 @@ All notable changes to this project will be documented in this file.
 - Add secrets
 - Add nvm
 - Add git-cliff gh action
+- Update brewfile with new installs
+
+### Miscellaneous Tasks
+
+- Autopublish 2022-04-23T21:28:36Z
 
 ### Config
 
