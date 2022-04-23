@@ -1,0 +1,14 @@
+[user]
+	name = Jimmy Briggs
+	email = jimmy.briggs@jimbrig.com
+	signingKey = BAC39CA93E4DB7B16F0B1986F9B7D4F867B53B14
+[commit]
+	gpgSign = true
+[tag]
+	forceSignAnnotated = true
+[default]
+	protocol = ssh
+[color]
+	ui = auto
+[init]
+	defaultBranch = main
