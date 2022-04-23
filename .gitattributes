@@ -4,3 +4,4 @@ secrets/.secrets/GIT_CRYPT_KEYFILE filter=git-crypt diff=git-crypt
 gnupg/.gnupg/exports/** filter=git-crypt diff=git-crypt
 gnupg/.gnupg/private-keys-v1.d/** filter=git-crypt diff=git-crypt
 gnupg/.gnupg/trustdb.gpg filter=git-crypt diff=git-crypt
+npm/.npmrc filter=git-crypt diff=git-crypt
