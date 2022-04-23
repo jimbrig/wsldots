@@ -8,6 +8,9 @@ All notable changes to this project will be documented in this file.
 
 - Initialize README
 - Initialize CHANGELOG.md
+- Mark all *.md files liguist docs
+- Mark all *.md files liguist docs
+- Mark all *.md files liguist docs
 
 ### Features
 
@@ -22,6 +25,18 @@ All notable changes to this project will be documented in this file.
 - Add stowed bash configs
 - Add stowed docker configs
 - Add stowed, encrypted gh-cli settings
+- Add git-crypt encrypted ssh private key
+- Add inital oh-my-zsh
+- Add gnupg
+- Add stowed homebrews
+- Add p10k
+- Add java
+- Add .npmrc
+- Add powershell
+- Add profile
+- Add secrets
+- Add nvm
+- Add git-cliff gh action
 
 ### Config
 
