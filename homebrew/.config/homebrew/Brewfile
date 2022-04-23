@@ -1,0 +1,26 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+# Clone of cat(1) with syntax highlighting and Git integration
+brew "bat"
+# Command-line fuzzy finder written in Go
+brew "fzf"
+# GitHub command-line tool
+brew "gh"
+# Highly customizable changelog generator
+brew "git-cliff"
+# Enable transparent encryption/decryption of files in a git repo
+brew "git-crypt"
+# Syntax-highlighting pager for git and diff output
+brew "git-delta"
+# Improved top (interactive process viewer)
+brew "htop"
+# Lightweight and flexible command-line JSON processor
+brew "jq"
+# Clone of ls with colorful output, file type icons, and more
+brew "lsd"
+# Web search from the terminal
+brew "s-search"
+# Simplified and community-driven man pages
+brew "tldr"
+# Upgrade all the things
+brew "topgrade"
