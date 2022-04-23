@@ -8,4 +8,4 @@ npm/.npmrc filter=git-crypt diff=git-crypt
 
 
 *.md linguist-documentation
-*.md linguist-vendored
+tldr/** linguist-vendored
